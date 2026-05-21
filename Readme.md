@@ -5,7 +5,7 @@ React click outside component.
 ## Installation
 
 ```
-$ npm install tj/react-click-outside
+$ npm install drylikov/React_click_outside
 ```
 
 ## Example
