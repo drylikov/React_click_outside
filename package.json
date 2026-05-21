@@ -1,0 +1,23 @@
+{
+  "name": "react_click_outside",
+  "version": "1.1.1",
+  "description": "ClickOutside component for React",
+  "keywords": [
+    "react",
+    "click",
+    "outside",
+    "component"
+  ],
+  "main": "build/index.js",
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "license": "MIT",
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  },
+  "devDependencies": {
+    "prop-types": "^15.5.8",
+    "react-fatigue-dev": ""
+  }
+}
